@@ -1,5 +1,7 @@
 # Blaster-Again
 This game is a remake of my this [Game](https://github.com/NikhilRajPandey/Blaster-Python-Game) in p5js. That I made in 2019.
+<br>
+Play this Game [Here.]( https://nikhilrajpandey.github.io/blaster-again/)
 
 <hr>
 
