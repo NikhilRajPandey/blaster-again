@@ -5,6 +5,11 @@ Play this Game [Here.]( https://nikhilrajpandey.github.io/blaster-again/)
 
 <hr>
 
+# Controls
+LEFT ARROW KEY to go left<br>
+RIGHT ARROW KEY to go right.<br>
+SPACE to fire.
+
 # Screenshot of that game
 ![Img](screenshot/photo1.png)
 
