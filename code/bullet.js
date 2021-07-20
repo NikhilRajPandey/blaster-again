@@ -23,6 +23,8 @@ function Bullet(playerCords){
 
     this.checkEnemyCollision = function (enemies){
         for(enem of enemies) {
+            if(!enem.isAlive ) continue;
+
             let xCheck = isin(enem.cord.x, enem.cord.x + enem.size, this.cord.x);
             let yCheck = isin(enem.cord.y, enem.cord.y + enem.size, this.cord.y);
             
