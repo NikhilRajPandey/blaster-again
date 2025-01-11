@@ -11,7 +11,8 @@ RIGHT ARROW KEY to go right.<br>
 SPACE to fire.
 
 # Screenshot of that game
-![Img](screenshot/photo1.png)
+[Screen-Recording.webm](https://github.com/user-attachments/assets/221ada51-70f8-475b-ab47-982966ae6749)
+
 
 # Author Details
 Name: Nikhil Raj Pandey <br>
